@@ -1,5 +1,5 @@
-**Please give this repository a star if you want to use these codes, tks!
-如果想參考這份code，麻煩大家給一顆星星支持~**
+**Please give this repository a star if you want to use these codes, tks!** 
+**如果想參考這份code，麻煩大家給一顆星星支持~**
 
 ### **Project List**
 1. LAB1 - **Back Propagation**
